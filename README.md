@@ -35,8 +35,7 @@
 
 # <b>Survey Form</b> 📖<a name="about-project"></a>
 
-**Survey Form** was one the the project built during Microverse the [Admissions Trial](https://github.com/anbehindY/yan-x-nelly).
-This is a complete new version integrating new syntaxes as well as a better visual rendering<br/><hr /><br/><br/>
+**Survey Form** was one the the project built during Microverse the [Admissions Trial](https://github.com/anbehindY/yan-x-nelly).<br/><hr /><br/><br/>
 
 ## <b>Screenshot 📷</b><a name="screenshot"></a><hr />
 
